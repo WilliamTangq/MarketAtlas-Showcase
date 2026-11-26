@@ -2,7 +2,7 @@
 
 **Geospatial business intelligence & decision support | Guang Quan Tan**
 
-> Public starter: actual screenshots of synthetic training data and illustrative finance only. Historical figures below describe the separate local project.
+> PUBLICATION REVIEW DRAFT — selected historical screenshots require rights/attribution confirmation before publishing.
 
 [Interactive demo (after deployment)](https://williamtangq.github.io/MarketAtlas-Showcase/demo.html) · [Showcase website (after deployment)](https://williamtangq.github.io/MarketAtlas-Showcase/) · [Technical architecture & ERD](TECHNICAL.md) · [Contact me on LinkedIn](https://www.linkedin.com/in/williamtangq/)
 
@@ -35,6 +35,42 @@ The latest V4.8.1 development suite previously reported 364 passing automated te
 
 Every image below is an original capture of a running application or explicitly identified external map. Click to inspect the full-resolution image. No AI-generated UI previews are used. The data type is labelled independently of screenshot authenticity.
 
+### Integrated decision workspace
+
+**Historical mapped/modelled evidence** — Actual local V4.7 capture: 400 mapped supermarket objects; 76.78% modelled residential coverage within 3 km across Johor. Historical data, not verified stores. Map: © OpenStreetMap contributors · © CARTO.
+
+[![Integrated decision workspace](assets/command-center.png)](assets/command-center.png)
+
+### Regional comparison
+
+**Historical mapped/modelled evidence** — Actual matched-scale comparison: Kulai 82.31%, Kluang 68.02%, Johor Bahru 93.28% modelled supermarket coverage at 3 km. Data: © OpenStreetMap contributors · WorldPop · geoBoundaries.
+
+[![Regional comparison](assets/regional-comparison.png)](assets/regional-comparison.png)
+
+### Population intelligence
+
+**Historical mapped/modelled evidence** — WorldPop population hexagons over Johor Bahru; orange markers are mapped supermarkets. The KPI panel is statewide, not the map viewport. Map: © OpenStreetMap contributors · © CARTO.
+
+[![Population intelligence](assets/population-hexagons.png)](assets/population-hexagons.png)
+
+### Fuel market intelligence
+
+**Historical mapped/modelled evidence** — Historical multi-industry snapshot: 596 mapped fuel objects, 80.9% modelled population coverage and 846,368 estimated residents outside 3 km buffers. Operating status not verified. Data: © OpenStreetMap contributors · WorldPop.
+
+[![Fuel market intelligence](assets/fuel-dashboard.png)](assets/fuel-dashboard.png)
+
+### Multi-industry site screening
+
+**Historical mapped/modelled evidence** — 4,257 road representative points; 2,190 ranked and 20 shortlisted for the 3 km supermarket scenario. Research priorities, not verified land parcels or investment recommendations. Data: © OpenStreetMap contributors · WorldPop.
+
+[![Multi-industry site screening](assets/site-screening.png)](assets/site-screening.png)
+
+### Candidate register
+
+**Historical mapped/modelled evidence** — Actual statewide candidate ranking by modelled uncovered residents; overlapping research circles cannot be added. Data: © OpenStreetMap contributors · WorldPop.
+
+[![Candidate register](assets/candidate-register.png)](assets/candidate-register.png)
+
 ### Monte Carlo conditional risk
 
 **Illustrative financial assumptions** — Actual model output using illustrative input distributions: median NPV MYR −1,663,242; positive NPV trials 1.00%. Not a measured probability of commercial success.
@@ -46,6 +82,24 @@ Every image below is an original capture of a running application or explicitly 
 **Illustrative financial assumptions** — Actual model output under illustrative assumptions: NPV MYR −1,448,084, IRR −0.69%, NPV break-even 621.09 transactions/day. Not a real investment forecast.
 
 [![Investment feasibility and cash flow](assets/finance-base.png)](assets/finance-base.png)
+
+### Executive business research report
+
+**Historical evidence + illustrative finance** — Actual fuel research executive summary: 596 mapped records, 19.15% modelled area coverage, 80.94% modelled residential coverage in the 3 km scenario. Earlier fuel-specific snapshot; not the multi-industry PBF calculation. Financial scenario is illustrative.
+
+[![Executive business research report](assets/executive-report.png)](assets/executive-report.png)
+
+### Petrol station expansion
+
+**Historical mapped/modelled evidence** — Actual casebook capture using historical mapped data and a hypothetical client brief. 596 mapped fuel objects; 80.93% modelled coverage within 3 km. Batu Pahat is a district-level research signal, not a site recommendation. Data: © OpenStreetMap contributors · WorldPop.
+
+[![Petrol station expansion](assets/case-fuel.png)](assets/case-fuel.png)
+
+### Retail market expansion
+
+**Historical mapped/modelled evidence** — Actual casebook capture using historical mapped data and a hypothetical client brief. 400 mapped supermarket objects; 76.78% modelled coverage within 3 km. Kota Tinggi has the largest estimated population outside buffers in this snapshot. Data: © OpenStreetMap contributors · WorldPop.
+
+[![Retail market expansion](assets/case-retail.png)](assets/case-retail.png)
 
 ### Retail footfall and performance
 
