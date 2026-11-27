@@ -69,3 +69,17 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 @media(max-width:850px){.gallery{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:540px){.gallery{grid-template-columns:minmax(0,1fr)}}
 @media print{.gallery .card{break-inside:avoid}.gallery .card .shot{break-inside:avoid}}
+
+/* V4.9.3 product video: fixed media aspect ratio, independent text layout. */
+.ma-intro{flex-wrap:wrap}.ma-actions{max-width:100%}
+.ma-video-heading{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:12px;flex-wrap:wrap}
+.ma-video-heading h2{margin:6px 0}.ma-video-heading p{margin:4px 0}.ma-video-heading>div{min-width:0;flex:1 1 420px}
+.ma-video-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(250px,300px);border:1px solid var(--line,#d8e2e8);border-radius:9px;overflow:hidden;background:#fff;align-items:start}
+.ma-video-frame{margin:0;min-width:0;background:#fff;border-right:1px solid var(--line,#d8e2e8)}
+.ma-video-frame video{display:block;width:100%;height:auto;aspect-ratio:16/9;max-width:100%;object-fit:contain;background:#16283f}
+.ma-video-frame figcaption{padding:12px 14px;color:#526779;font-size:12px;line-height:1.5;overflow-wrap:anywhere}
+.ma-video-detail{min-width:0;padding:18px;overflow-wrap:anywhere}.ma-video-detail h3{margin:7px 0}.ma-video-detail p{font-size:13px;color:#526779}
+.ma-video-detail dl{margin:12px 0 16px}.ma-video-detail dl div{display:grid;grid-template-columns:48px minmax(0,1fr);gap:9px;border-bottom:1px solid #e4eaee;padding:7px 0;font-size:12px;line-height:1.4}.ma-video-detail dt{color:#176e66;font-weight:700;font-variant-numeric:tabular-nums}.ma-video-detail dd{margin:0}.ma-video-detail .cta{display:block;text-align:center;margin:7px 0}.ma-video-note{font-size:12px;color:#526779;margin:10px 0}
+@media(max-width:850px){.ma-video-layout{grid-template-columns:minmax(0,1fr)}.ma-video-frame{border-right:0;border-bottom:1px solid var(--line,#d8e2e8)}.ma-video-detail{padding:14px}}
+@media(max-width:540px){.ma-video-heading>div{flex-basis:100%}.ma-video-frame figcaption{padding:9px}.ma-video-detail{padding:12px}}
+@media print{.ma-video-layout{display:block}.ma-video-detail .cta{display:none}.ma-video-frame video{max-height:90mm}.ma-video-frame{border:0}}

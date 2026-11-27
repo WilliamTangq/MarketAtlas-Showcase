@@ -8,6 +8,14 @@
 
 The implementation repository is private. This showcase is deliberately separate; it contains presentation assets and a standalone synthetic demo, not the full Python/SQL application, private databases or secrets. Contact me for a walkthrough or discussion of source access.
 
+## Product demonstration
+
+[![MarketAtlas Intelligence — original product showcase video](assets/product-showcase-cover.png)](https://williamtangq.github.io/MarketAtlas-Showcase/#product-demo)
+
+[**Watch the 2:56 product demonstration**](https://williamtangq.github.io/MarketAtlas-Showcase/#product-demo) · [Open the MP4 directly](https://williamtangq.github.io/MarketAtlas-Showcase/assets/product-showcase.mp4)
+
+The video combines 54 seconds of original screen recording with 24 original evidence captures (including one external OpenStreetMap inspection), technical diagrams and English on-screen explanations. Historical mapped and modelled results are distinguished from synthetic retail and illustrative finance scenarios. No voice-over. The full private implementation is not included. Map and data attribution and publication review apply to this video as well as the screenshots.
+
 ## Why I built it
 
 During a conversation with a senior HR professional, I was asked a practical question: if a company wanted to know how many petrol stations were in a specific area, how would I find out? I turned that question into an independent, AI-assisted Business Information Systems portfolio project: define the geography, obtain evidence, validate it, analyse it and communicate the result.
