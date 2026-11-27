@@ -182,8 +182,12 @@ Python, GIS, JavaScript/HTML/CSS, SQLite, PostgreSQL/PostGIS, FastAPI, SQL, loca
 
 I originated the project from the interview question, set the research direction and requirements, refined the UI and evidence presentation, ran the application locally, tested outputs and supplied actual screenshots. AI tools assisted with coding, debugging, test generation and documentation. I am developing independent proficiency in the analytical and technical methods and can demonstrate my practised work in a walkthrough. I do not claim sole unaided implementation or actual client results.
 
-## Access and contact
+## Access & Live Demonstration
 
-The full implementation remains private. I am happy to discuss the problem, decisions, methodology and a live local demonstration, or consider appropriate access on request.
+MarketAtlas Intelligence is an independent, AI-assisted business intelligence and decision-support project.
 
-**Guang Quan Tan** — [LinkedIn](https://www.linkedin.com/in/williamtangq/)
+The full implementation is maintained in a private repository. This public showcase provides actual product screenshots, interactive demonstrations, business case studies, analytical methodologies and technical architecture.
+
+Selected technical examples, a live system demonstration and further implementation details are available upon request.
+
+For recruitment opportunities, technical discussions or potential collaboration, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/williamtangq/).
