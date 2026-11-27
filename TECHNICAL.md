@@ -1,5 +1,7 @@
 # Technical architecture and methodology
 
+[Public workspace](https://williamtangq.github.io/MarketAtlas-Showcase/) · [Interactive demo](https://williamtangq.github.io/MarketAtlas-Showcase/demo.html) · [Project README](README.md)
+
 This is an implemented local prototype, not a hosted production SaaS. Diagrams are documentation based on the shipped source, not product screenshots.
 
 ![System architecture](assets/architecture.svg)

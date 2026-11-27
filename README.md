@@ -4,7 +4,7 @@
 
 > PUBLICATION REVIEW DRAFT — selected historical screenshots require rights/attribution confirmation before publishing.
 
-[Interactive demo (after deployment)](https://williamtangq.github.io/MarketAtlas-Showcase/demo.html) · [Showcase website (after deployment)](https://williamtangq.github.io/MarketAtlas-Showcase/) · [Technical architecture & ERD](TECHNICAL.md) · [Contact me on LinkedIn](https://www.linkedin.com/in/williamtangq/)
+[Open the public workspace](https://williamtangq.github.io/MarketAtlas-Showcase/) · [Interactive analytics](https://williamtangq.github.io/MarketAtlas-Showcase/demo.html#market) · [Product Evidence](https://williamtangq.github.io/MarketAtlas-Showcase/#evidence) · [Technical architecture & ERD](TECHNICAL.md) · [Contact on LinkedIn](https://www.linkedin.com/in/williamtangq/)
 
 The implementation repository is private. This showcase is deliberately separate; it contains presentation assets and a standalone synthetic demo, not the full Python/SQL application, private databases or secrets. Contact me for a walkthrough or discussion of source access.
 
@@ -30,6 +30,21 @@ Rather than simply search Google Maps, I wanted to define a reproducible researc
 | Business case studies | 3 (hypothetical briefs) |
 
 The latest V4.8.1 development suite previously reported 364 passing automated tests; this is not a claim of production reliability or complete manual UAT. The historical metrics are mapped/modelled observations, not a verified operating-business census.
+
+## Explore the public workspace
+
+The public dashboard uses the same visual language as the local decision workspace: shared navigation, original screenshot views, clearly scoped KPIs and connected case studies. The screenshot selector is a read-only evidence viewer, not a live GIS map.
+
+| Workspace | Entry |
+|---|---|
+| Original dashboard and four evidence views | [Explore](https://williamtangq.github.io/MarketAtlas-Showcase/) |
+| Market expansion | [Interactive demo](https://williamtangq.github.io/MarketAtlas-Showcase/demo.html#market) |
+| Retail performance | [Interactive demo](https://williamtangq.github.io/MarketAtlas-Showcase/demo.html#retail) |
+| Financial scenario | [Interactive demo](https://williamtangq.github.io/MarketAtlas-Showcase/demo.html#finance) |
+| Searchable original screenshots | [Product Evidence](https://williamtangq.github.io/MarketAtlas-Showcase/#evidence) |
+| System design and data lineage | [Technical section](https://williamtangq.github.io/MarketAtlas-Showcase/#architecture) |
+
+The interactive demo uses synthetic market and retail data and illustrative financial assumptions. Its filters do not query the historical screenshot data or the private database. GitHub Pages URLs require a successful deployment.
 
 ## Product evidence — original screenshots
 
